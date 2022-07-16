@@ -2,7 +2,7 @@
 Two Python scripts that came from a recent school project.
 
 # ReservationMaker.py
-A script that takes advantage of the Selenium webdriver to automatically take in a string w/ info provided by the user and automatically fill out the room reservation form for OkState's library rooms. Takes users up to the page where they have to enter school credentials, which is purposely not filled in by the program in interest of security. Requires the included file 'chromedriver 3' in the same folder to be able to function. 
+A script that takes advantage of the Selenium webdriver to automatically take in a string w/ info provided by the user and automatically fill out the room reservation form for OkState's library rooms. Takes users up to the page where they have to enter school credentials, which is purposely not filled in by the program in interest of security. Requires the included chromedriver files in the same folder (according to your operating system) to be able to function. 
 Credit for chromedriver:
 https://chromedriver.chromium.org/downloads
 
